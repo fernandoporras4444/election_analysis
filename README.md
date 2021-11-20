@@ -35,5 +35,12 @@ The analysis of the election show that:
 This module 3 challenge has open eyes and mind to python coding and what it has to offer with its platform. I now see the user friendly syntax and simple use of function words that helps make it an easier reading code format. 
 
 - One of the learning points about python code is the `import` function and variable setup with `os.path.join` makes writing and reading very simple and clean.
-    >  
+    
+    >  ![Import](https://user-images.githubusercontent.com/92836648/142743555-b5695138-7791-4aa3-b10b-78a34c0d8165.png)
+
+- A struggle point for me was the proper `indenting` function which keep myself reviewing why my output data was only part of the return value and slow computing process for end results due print text file opening & closing caused by improper indenting on `loops`. Once the issue were corrected it easy to understand why errors where happen because of the importance to proper indenting.
+
+    >![Indenting ](https://user-images.githubusercontent.com/92836648/142743556-67edfb9c-f70c-4f50-9f92-eaa61516288d.png)
+
 ## Challenge Summary
+
