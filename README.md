@@ -43,4 +43,4 @@ This module 3 challenge has open eyes and mind to python coding and what it has 
     >![Indenting ](https://user-images.githubusercontent.com/92836648/142743556-67edfb9c-f70c-4f50-9f92-eaa61516288d.png)
 
 ## Challenge Summary
-
+In all the ups and downs of module 3 it shown me the possibilities with using Python coding, and opened ideas about where this program could help process data from csv files that I currently work with in Reliability Engineering department. I will need to continue to grow my confidence with the new skill set but like anything else will need more hands on practice so the python coding language becomes second hand nature to me.
