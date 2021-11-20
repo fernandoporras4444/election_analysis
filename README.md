@@ -26,7 +26,14 @@ The analysis of the election show that:
     - `Raymon Anthony Doane` received `3.1%` of the vote and `11,606` number of votes.
 - The winner of the election was:
     - `Diana DeGette`, who received `73.8%` of the vote and `272,892` of votes.
+    
+        > Election Analysis Results:
+        > 
+        > ![Election Results](https://user-images.githubusercontent.com/92836648/142743553-225e3da3-7dd6-4ff4-b1f8-0a3c6dc9f984.png)
 
 ## Challenge Overview
+This module 3 challenge has open eyes and mind to python coding and what it has to offer with its platform. I now see the user friendly syntax and simple use of function words that helps make it an easier reading code format. 
 
+- One of the learning points about python code is the `import` function and variable setup with `os.path.join` makes writing and reading very simple and clean.
+    >  
 ## Challenge Summary
