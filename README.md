@@ -1,7 +1,7 @@
-# Election Analysis
+# Election Analysis Audit
 
-## Project Overview
-Colorado Board of Elections employee has give the followig tasks to complete the election audit of a recent local congressional election.
+## Election Audit Overview
+Colorado Board of Elections has give the followig tasks to complete an election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who recieved votes
@@ -13,9 +13,15 @@ Colorado Board of Elections employee has give the followig tasks to complete the
 - Data Source: `election_results.csv`
 - Software: `Python 3.7.6`, `Visual Studio Code 1.62.3`
 
-## Summary
+## Election Audit Results
 The analysis of the election show that:
 - There were `369,711` votes cast in the election
+- The county vote results were:
+    - `Jefferson` county had `10.5%` of the ballot vote and `38,855` number of ballot votes.
+    - `Denver` county had `82.8%` of the ballot vote and `306,055` number of ballot votes.
+    - `Arapahoe` county had `6.7%` of the ballot votes and `24,801` of the ballot votes.
+- The county with largest voter turnout was:
+    - `Denver` county had `82.8%` of the ballot vote and `306,055` number of ballot votes.
 - The candidates were:
     - `Charles Casper Stockham`
     - `Diana DeGette`
@@ -29,7 +35,14 @@ The analysis of the election show that:
     
         > Election Analysis Results:
         > 
-        > ![Election Results](https://user-images.githubusercontent.com/92836648/142743553-225e3da3-7dd6-4ff4-b1f8-0a3c6dc9f984.png)
+        > ![election results with counties](https://user-images.githubusercontent.com/92836648/142778744-683e45f0-199f-4ac6-8cda-c5f84aff25e0.png)
+
+## Election Audit Summary
+The Python coding written for the election analysis and results can be used in future election audits with a few simple coding adjustments on identifying column `index` for `candidates` and `counties` with voting ballots.
+
+   - Variables for `candidate_name` and `county_name` can be changed to identified index columns per data source.
+  
+     > ![Candidates and Counties](https://user-images.githubusercontent.com/92836648/142779110-2a500b70-19f2-46b8-913f-f91180320f87.png)
 
 ## Challenge Overview
 This module 3 challenge has open eyes and mind to python coding and what it has to offer with its platform. I now see the user friendly syntax and simple use of function words that helps make it an easier reading code format. 
