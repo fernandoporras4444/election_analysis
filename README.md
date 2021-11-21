@@ -1,7 +1,7 @@
 # Election Analysis
 
-## Project Overview
-Colorado Board of Elections employee has give the followig tasks to complete the election audit of a recent local congressional election.
+## Election Audit Overview
+Colorado Board of Elections has give the followig tasks to complete an election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who recieved votes
@@ -13,9 +13,15 @@ Colorado Board of Elections employee has give the followig tasks to complete the
 - Data Source: `election_results.csv`
 - Software: `Python 3.7.6`, `Visual Studio Code 1.62.3`
 
-## Summary
+## Election Audit Results
 The analysis of the election show that:
 - There were `369,711` votes cast in the election
+- The county vote results were:
+    - `Jefferson` county had `10.5%` of the ballot vote and `38,855` number of ballot votes.
+    - `Denver` county had `82.8%` of the ballot vote and `306,055` number of ballot votes.
+    - `Arapahoe` county had `6.7%` of the ballot votes and `24,801` of the ballot votes.
+- The county with largest voter turnout was:
+    - `Denver` county had `82.8%` of the ballot vote and `306,055` number of ballot votes.
 - The candidates were:
     - `Charles Casper Stockham`
     - `Diana DeGette`
