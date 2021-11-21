@@ -35,7 +35,12 @@ The analysis of the election show that:
     
         > Election Analysis Results:
         > 
-        > ![Election Results](https://user-images.githubusercontent.com/92836648/142743553-225e3da3-7dd6-4ff4-b1f8-0a3c6dc9f984.png)
+        > ![election results with counties](https://user-images.githubusercontent.com/92836648/142778744-683e45f0-199f-4ac6-8cda-c5f84aff25e0.png)
+
+## Election Audit Summary
+The Python coding written for the election analysis and results can be used in future election audit with a few coding adjustments for identifying column `index` for `candidates` and `counties` with voting ballots.
+
+    - 
 
 ## Challenge Overview
 This module 3 challenge has open eyes and mind to python coding and what it has to offer with its platform. I now see the user friendly syntax and simple use of function words that helps make it an easier reading code format. 
