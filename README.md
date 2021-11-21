@@ -1,4 +1,4 @@
-# Election Analysis
+# Election Analysis Audit
 
 ## Election Audit Overview
 Colorado Board of Elections has give the followig tasks to complete an election audit of a recent local congressional election.
@@ -38,8 +38,11 @@ The analysis of the election show that:
         > ![election results with counties](https://user-images.githubusercontent.com/92836648/142778744-683e45f0-199f-4ac6-8cda-c5f84aff25e0.png)
 
 ## Election Audit Summary
-The Python coding written for the election analysis and results can be used in future election audit with a few coding adjustments for identifying column `index` for `candidates` and `counties` with voting ballots.
+The Python coding written for the election analysis and results can be used in future election audits with a few simple coding adjustments on identifying column `index` for `candidates` and `counties` with voting ballots.
 
+   - Variables for `candidate_name` and `county_name` can be changed to identified index columns per data source.
+  
+     > ![Candidates and Counties](https://user-images.githubusercontent.com/92836648/142779110-2a500b70-19f2-46b8-913f-f91180320f87.png)
 
 ## Challenge Overview
 This module 3 challenge has open eyes and mind to python coding and what it has to offer with its platform. I now see the user friendly syntax and simple use of function words that helps make it an easier reading code format. 
