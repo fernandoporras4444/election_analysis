@@ -40,7 +40,6 @@ The analysis of the election show that:
 ## Election Audit Summary
 The Python coding written for the election analysis and results can be used in future election audit with a few coding adjustments for identifying column `index` for `candidates` and `counties` with voting ballots.
 
-    - 
 
 ## Challenge Overview
 This module 3 challenge has open eyes and mind to python coding and what it has to offer with its platform. I now see the user friendly syntax and simple use of function words that helps make it an easier reading code format. 
